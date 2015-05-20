@@ -1,0 +1,96 @@
+.sponsorListHolder{
+	margin-bottom: 30px;
+	background-color: #9faeb9;
+	width: 100%;
+	padding: 0%;
+	background: #9faeb9;
+}
+
+.sponsor{
+	float: left;
+	padding: 1%;
+	/* Giving the sponsor div a relative positioning: */
+	position: relative;
+	cursor:pointer;
+    background-color: #9faeb9;
+	padding-bottom: 3%;
+}
+
+.sponsorFlip{
+	/*  The sponsor div will be positioned absolutely with respect
+		to its parent .sponsor div and fill it in entirely */
+	position:relative;
+	border: 1px solid #ffffff;
+    background-color: #9faeb9;
+	height: 19em;
+	width: 19em;
+	margin: 0% .5%;
+	
+}
+
+.sponsorFlip:hover{
+	border:1px solid #999;
+    background-color: #9faeb9;
+	/* CSS3 inset shadow: */
+	-moz-box-shadow:0 0 30px #555 inset;
+	-webkit-box-shadow:0 0 30px #555 inset;
+	box-shadow:0 0 30px #555 inset;
+}
+
+.sponsorFlip img{
+	/* Centering the logo image in the middle of the sponsorFlip div */
+	display: block;
+    margin: auto;
+	padding: 0;
+}
+
+.sponsorData{
+	/* Hiding the .sponsorData div */
+	display:none;
+	position:relative;
+	*margin: auto;
+	
+
+}
+
+.sponsorDescription{
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+	position:relative;
+	text-align: center;
+	*margin: auto;
+	padding: 2em 2em 0em 2em;
+	background-color: #293944;
+	height: 19em;
+	width: 19em;
+}
+
+.sponsorURL{
+	font-size: 17px;
+	font-weight:bold;
+	padding-left:20px;
+	position: absolute;
+	bottom: 1.5rem;
+	margin-left: 5%;
+	margin-right: 5%;
+	vertical-align: baseline;
+	background-color: #465c6b;
+	border: 1px solid #ffffff;
+	width: 90%;
+	padding: 0.75rem;
+	text-align: center;
+	color: #ffffff;
+}
+.sponsorURL a{
+	color: #ffffff;}
+.clear{
+	/* This class clears the floats */
+	clear:both;
+}
+
+a, a:visited {
+	color:#ffffff;
+	text-decoration:none;
+	outline:none;
+}

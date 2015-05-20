@@ -1,0 +1,323 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>2015 Global Solutions Catalog</title>
+<link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" href="css/foundation.css" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="jquery.flip.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
+
+<!--webtrends -->
+  <meta name="WT.mc_id">
+<meta name="WT.srch" content="1"/>
+
+<script src='/Scripts/webtrends.js' type="text/javascript"></script>
+    <!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 8/18/2011 3:15:22 PM -->
+<!--<script src="Scripts/webtrends.js" type="text/javascript"></script>-->
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+
+
+<!--end webtrends -->
+<!--Marketo Muchkin -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>Munchkin.init('521-DEV-513');</script>
+<!--end Marketo Muchkin -->
+
+<!--google analytics -->
+  <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script src='/tracking.js' type="text/javascript"></script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-3820067-1");
+        var hf = document.getElementById('rHF');
+        pageTracker._initData();
+        pageTracker._trackPageview();
+
+        var version = getSilverlightVersion();
+        if (version) { pageTracker._setVar(version); }
+        if (hf != null) {
+            pageTracker._setCustomVar(
+                      1,                   //set to slot #1
+                      "Region",     //category for the user activity      
+                      hf.value,               //value of the custom variable      
+                      3                    //Set the scope to page-level   
+                      );
+
+        }
+    </script>
+<!-- end google analytics -->
+
+
+<!-- Phone tracking script reference -->
+  <script src="/uploads/common/Javascript/phone.js"></script>
+  
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+</script>
+
+  
+    <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 972667464;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972667464/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!--Web Trends-->
+<script src='/Scripts/webtrends.js' type="text/javascript"></script>
+    <!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 8/18/2011 3:15:22 PM -->
+<!--<script src="Scripts/webtrends.js" type="text/javascript"></script>-->
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+</head>
+<style type="text/css">
+body {
+	padding: 0% 8%;
+	}
+
+#PhoneNumber {
+	color: rgb(0, 168, 200);
+	font-size: 22px;
+	text-align: right;
+	display: inline;
+	}
+.bodysection {
+	background: #e8e8e8 no-repeat center center;
+	padding: 0.5rem 1.75rem 1.75rem 1.75rem;
+	margin-top: 1.5%;
+	border-bottom: 1px solid #dcdcdc;
+	border-left: 1px solid #dcdcdc;
+	border-right: 1px solid #dcdcdc;
+}
+#intro {
+	color: rgb(0, 109, 158);
+	font-size: 32px;
+  }
+.intro {
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+	}
+#need {
+  color: rgb(255, 255, 255);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+  margin: 1.5% 0% 0% 4.5%;
+}
+</style>
+<body onload="GetPhoneNumber()">
+<!-- Phone tracking script -->
+ <div style="float: left; width: 300px; height: 13px;">
+<script type="text/javascript" language="javascript">
+
+   function GetPhoneNumber() {
+        // callback necessary for waiting on AJAX call for phone number
+        Mercer.getPhoneNumber(function (data) {
+            var div = document.getElementById('PhoneNumber');
+            var phone_number;
+            phone_number = data.phone_number;
+            //phone_number = '800-512-5698';
+            if (phone_number != '') {
+                // if result was found
+                document.getElementById('divTrackingNumber').style.display = 'block';
+                phone_number = formatPhNumber(phone_number);
+                div.innerHTML = 'Questions? Call' + ' ' + phone_number;   // replace the div.innerHTML by the id of the textbox or row control which will show the phone number
+                document.getElementById('divContactTime').innerHTML = 'Monday-Friday, 8am-6pm ET';
+            }
+            else
+            { document.getElementById('divTrackingNumber').style.display = 'none'; }
+        }, 500);
+    };
+
+    //No change in this function
+    function formatPhNumber(text) {
+        var countryCodeStartExpr = new RegExp('^[\+][1]');
+        var countryCodeWithoutPlusExpr = new RegExp('^[1][0-9]{10}');
+        var standardTenDigitExpr = new RegExp('^[0-9]{10}');
+
+        if (countryCodeStartExpr.test(text)) {
+            text = text.replace(/^[\+][1](\d{3})(\d{3})(\d{4})/, "$1-$2-$3");
+        }
+        else if (countryCodeWithoutPlusExpr.test(text)) {
+            text = text.replace(/^[1](\d{3})(\d{3})(\d{4})/, "$1-$2-$3");
+        }
+        else if (standardTenDigitExpr.test(text)) {
+            text = text.replace(/^(\d{3})(\d{3})(\d{4})/, "$1-$2-$3");
+        }
+        return text;
+    }
+</script>
+
+<script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script src='http://www.imercer.com/uploads/common/Javascript/tracking.js' type="text/javascript"></script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-3820067-1");
+        var hf = document.getElementById('rHF');
+        pageTracker._initData();
+        pageTracker._trackPageview();
+
+        var version = getSilverlightVersion();
+        if (version) { pageTracker._setVar(version); }
+        if (hf != null) {
+            pageTracker._setCustomVar(
+                      1,                   //set to slot #1
+                      "Region",     //category for the user activity      
+                      hf.value,               //value of the custom variable      
+                      3                    //Set the scope to page-level   
+                      );
+
+        }
+    </script>
+    </div>
+  <!--   end phone -->
+  
+  
+      <div class="row" style="padding-left: 3%; padding-right: 3%;">
+<div class="small-12 medium-6 columns" style="float: left; padding-top: 1%; padding-bottom: 1%">
+<a href="http://www.imercer.com"><img src="http://www.mercer.com/content/dam/mercer/logos/logo-mercer.png" border="0" alt="Mercer" /></a>
+</div>
+
+<div class="small-12 medium-6 columns topPhone" style="float: right; padding-bottom: 2%;">
+<h5>
+
+   <!-- new phone number code -->
+<div id="divTrackingNumber" > 
+<div id="PhoneNumber" style="color: rgb(0, 168, 200); font-size: 22px; text-align: right; line-height:20px; display: inline; float: right; margin-right: 0; padding-right: 0;">&nbsp;</div>
+<br />
+<div id='divContactTime' style="text-align: right; color: rgb(0, 168, 200); font-size: 16px; line-height:26px; float: right; margin-right: 0; padding-right: 0;"></div></h2>
+</div>
+<!-- end of phone number code -->  
+
+</h5>
+</div>
+</div> 
+<div class="row bodysection">
+<div class="small-12 medium-12 columns">
+<h1 id="intro">Right information. Right time.<br /> 
+Right recommendations!
+</h1>
+<p class="intro">Whether you are focused on business or HR strategy, the data and information you need to benchmark current pay and benefit programs, make the business case for establishing new locations or expanding current ones, and attracting or retaining key talent can be found in Mercer’s global solutions.</p>
+<p class="intro">Choose the comprehensive solution that fits your information needs &hellip; from an individual global report, packaged solutions, or get it all in the <strong>Talent All Access<sup>&trade;</sup> Portal</strong>.</p>
+</div>
+</div>
+<div class="row sponsorListHolder">
+<div class="small-12 medium-12"><p id="need">What are your needs?</p></div>
+<?php
+// Each sponsor is an element of the $sponsors array:
+$sponsors = array(
+	array('one','Choose from seven top-selling reports on pay, benefits, short-term incentives, total employment costs, car policies, and salary differentials.','<a href=#>Order your individual reports!'),
+	array('two','Choose from global, regional, or country packages. You get the seven top-selling publications for your specific package. You can also choose our online tools package.','<a href=http://www.imercer.com/content/data-mining-insightSubscription.aspx>Order your package!</a>'),
+	array('three','Order the Talent All AccessTM Portal for all 20+ publications, online tools, videos, polls, and new reports that become available. Easy to navigate, you get all the information you need! ','<a href=http://www.imercer.com/products/talent-all-access.aspx>Order it all!'),
+);
+?>
+        <?php
+	// Looping through the array:
+			foreach($sponsors as $company)
+			{
+				echo'
+<div class="sponsor small-12 medium-12 large-4 columns" title="Click to flip">
+					<div class="sponsorFlip">
+						<img src="img/sponsors/'.$company[0].'.png" alt="More about '.$company[0].'" />
+					</div>
+					
+					<div class="sponsorData">
+						<div class="sponsorDescription">
+							'.$company[1].'
+						</div>
+						<div class="sponsorURL">
+							<a href="'.$company[2].'">'.$company[2].'</a>
+					</div>
+				</div>
+				</div>
+				
+				';
+			}
+		?>
+   </div>
+</div>
+<div class="row">
+<div class="small-12 medium-8 columns" style="float: left; padding-top: 1.5%; padding-left: 3%;">
+<a href="http://www.imercer.com/default.aspx?page=term">Terms of Use</a> | <a href="http://www.imercer.com/default.aspx?page=privacy">Privacy Policy</a> | © 2015 Mercer LLC, All Rights Reserved </div>
+
+<div class="small-12 medium-4 columns topPhone" style="float: right; padding: 2% 3% 0 0;">
+<a href="http://www.mmc.com/"><img src="http://www.mercer.com/content/dam/mercer/logos/logo-marsh-mclennan.png" border="0" alt="MMC" align="right" /></a></div>
+</div>   
+
+
+
+ 
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
